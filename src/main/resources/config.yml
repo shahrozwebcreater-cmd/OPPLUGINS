@@ -1,0 +1,24 @@
+crate:
+  name: '&5&lVOID CRATE'
+  key-name: '&d&lVOID CRATE KEY'
+  key-lore:
+    - '&7Use this key on a placed Void Crate.'
+  rewards:
+    - material: DIAMOND
+      amount: 8
+      chance: 35.0
+      name: '&bDiamond Bundle'
+    - material: ENCHANTED_GOLDEN_APPLE
+      amount: 2
+      chance: 10.0
+      name: '&6God Apples'
+    - material: EMERALD
+      amount: 16
+      chance: 25.0
+      name: '&aEmerald Bundle'
+    - type: saber
+      amount: 1
+      chance: 10.0
+    - type: void_armor
+      amount: 1
+      chance: 20.0

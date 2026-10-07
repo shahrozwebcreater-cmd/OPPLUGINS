@@ -1,0 +1,15 @@
+name: OPCratesWorks
+version: 2.0.0
+main: com.opcratesworks.OPCratesWorks
+api-version: '1.21'
+author: Custom
+description: Separate Void gear and placeable key crates with reward editor.
+commands:
+  opcrates:
+    description: OPCratesWorks administration
+    usage: /opcrates <key|crate|saber|armor|editor|reload>
+    aliases: [opc]
+    permission: opcrates.admin
+permissions:
+  opcrates.admin:
+    default: op
